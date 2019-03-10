@@ -11,3 +11,7 @@ Please download the dataset from https://goo.gl/ZK8wLW and copy the following fi
 - classic_train_piano.npy
 - jazz_train_piano.npy
 - pop_train_piano.npy
+
+# Transform midi to piano
+I used this website to transform midi songs to mp3:
+- https://www.onlineconverter.com/midi-to-mp3
